@@ -1,0 +1,20 @@
+{
+  "author": " <>",
+  "name": "node-wmclient",
+  "description": "Standalone weatherman",
+  "version": "0.0.0",
+  "homepage": "http://github.com/exfm/node-wmclient",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/exfm/node-wmclient.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
