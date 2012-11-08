@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+
+"use strict";
+
+var wm = require('weatherman');
+
+wm.config = {
+    namespace : "SW/ServiceName",
+    plugins: {
+        plugin_name: {
+            config_key: "config_value"
+        }
+    }
+};
+
+wm.start(60);
