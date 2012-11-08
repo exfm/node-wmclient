@@ -1,6 +1,6 @@
 {
   "author": " <>",
-  "name": "node-wmclient",
+  "name": "wmclient",
   "description": "Standalone weatherman",
   "version": "0.0.0",
   "homepage": "http://github.com/exfm/node-wmclient",

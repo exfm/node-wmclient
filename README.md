@@ -6,10 +6,14 @@ Standalone weatherman
 ## Install
 
 
-     npm install node-wmclient
+     npm install wmclient
 
 ## Running
 
-    git clone 
+    git clone
     npm install
-    node node-wmclient
+    ./wmclient
+
+## Configuration
+
+See the [weatherman documentation](https://github.com/exfm/node-weatherman).
